@@ -1,0 +1,15 @@
+# exported with NifSkope
+
+mtllib Studded Leather Gloves.mtl
+
+# GauntletsLight_1
+
+g GauntletsLight_1
+usemtl Material.000001
+
+
+# HandMale_Big1stpersonnew
+
+g HandMale_Big1stpersonnew
+usemtl Material.000001
+

@@ -1,0 +1,18 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 80
+map_Kd textures\armor\hide\m\GauntletsLight.dds
+map_Kn textures\armor\hide\m\GauntletsLight_n.dds
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 80
+map_Kd textures\actors\character\male\MaleHands_1.dds
+map_Kn textures\actors\character\male\MaleHands_1_msn.dds
