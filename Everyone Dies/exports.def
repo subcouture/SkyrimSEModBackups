@@ -1,0 +1,4 @@
+LIBRARY	"EveryoneDiesPlugin"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
