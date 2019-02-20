@@ -1,2 +1,3 @@
 ﻿  main.cpp
-c:\users\linzi\downloads\everyone dies 1_1 - source-75446-1-1\main.cpp(2): fatal error C1083: Cannot open include file: '../skse/PluginAPI.h': No such file or directory
+     Creating library H:\Programming Projects\SkyrimSE\Everyone Dies\Debug\EveryoneDiesPlugin.lib and object H:\Programming Projects\SkyrimSE\Everyone Dies\Debug\EveryoneDiesPlugin.exp
+  EveryoneDiesPlugin.vcxproj -> H:\Programming Projects\SkyrimSE\Everyone Dies\Debug\EveryoneDiesPlugin.dll

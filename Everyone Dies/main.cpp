@@ -1,6 +1,6 @@
 #include "Windows.h"
-#include "../skse64/PluginAPI.h"
-#include "../skse64/skse_version.h"
+#include "../skse64/skse64/PluginAPI.h"
+#include "../skse64/skse64_common/skse_version.h"
 
 #include "Tools.h"
 
@@ -15,7 +15,7 @@ extern "C"
 		info->name = PluginName;
 		info->version = PLUGIN_VERSION;
 
-		if (skse->isEditor || skse->runtimeVersion != RUNTIME_VERSION_1_9_32_0)
+		if (skse->isEditor || skse->runtimeVersion != RUNTIME_VERSION_1_5_62)
 			return false;
 		return true;
 	}
